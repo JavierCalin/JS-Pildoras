@@ -1,0 +1,10 @@
+Classes
+Prototype
+const, var, let
+RequestAnimation
+this
+Promises
+HTTPRequest
+Arrays todos los métodos
+spread operator
+destructuring
