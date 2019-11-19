@@ -7,6 +7,6 @@ const falseArr = [10]
 const evalFunction = (e) =>  e < 10
 
 console.log(trueArr.every(evalFunction))
-// response = true
+//true
 console.log(falseArr.every(evalFunction))
-// response = false
+//false

@@ -4,6 +4,6 @@
 
 const arr = ["sopa","pure","carne","pescado","postre","carne"]
 
-console.log(arr.indexOf('carne'))//espact : 2
-console.log(arr.indexOf('carne', 3))//espect: 5
-console.log(arr.indexOf('pasteles'))//espect: -1
+console.log(arr.indexOf('carne'))//2
+console.log(arr.indexOf('carne', 3))//5
+console.log(arr.indexOf('pasteles'))//-1

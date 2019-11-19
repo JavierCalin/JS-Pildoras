@@ -6,7 +6,7 @@
 
 const arr = ["Mi","numero","favorito","es","el",10]
 
-console.log(arr.join())     // espect: [Mi,numero,favorito,es,el,10]
-console.log(arr.join(''))   // espect: [Minumerofavoritoesel10]
-console.log(arr.join(' '))  // espect: [Mi numero favorito es el 10]
-console.log(arr.join('-'))  // espect: [Mi-numero-favorito-es-el-10]
+console.log(arr.join())     //[Mi,numero,favorito,es,el,10]
+console.log(arr.join(''))   //[Minumerofavoritoesel10]
+console.log(arr.join(' '))  //[Mi numero favorito es el 10]
+console.log(arr.join('-'))  //[Mi-numero-favorito-es-el-10]

@@ -5,5 +5,5 @@ var palabras = ["hola", "¿", "Qué", "tal", "estas", "?"];
 
 var filtrado = palabras.filter(palabra=> palabra.length<=3)
 
-console.log(palabras)//expect = ["hola", "¿", "Qué", "tal", "estas", "?"]
-console.log(filtrado)//expect = [¿", "Qué", "tal", "?"]
+console.log(palabras)//["hola", "¿", "Qué", "tal", "estas", "?"]
+console.log(filtrado)//[¿", "Qué", "tal", "?"]
